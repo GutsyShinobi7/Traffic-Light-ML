@@ -1,2 +1,6 @@
 DataImages filter=lfs diff=lfs merge=lfs -text
 Project.ipynb filter=lfs diff=lfs merge=lfs -text
+alex-lechner-udacity-traffic-light-dataset/jpg_udacity_train.record filter=lfs diff=lfs merge=lfs -text
+alex-lechner-udacity-traffic-light-dataset/jpg_simulator_train.record filter=lfs diff=lfs merge=lfs -text
+*.record filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
